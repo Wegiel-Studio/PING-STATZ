@@ -1,0 +1,15 @@
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\PING-STATZ.exe
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.csprojAssemblyReference.cache
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.AssemblyInfoInputs.cache
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.AssemblyInfo.cs
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\PING-STATZ.deps.json
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\PING-STATZ.runtimeconfig.json
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\PING-STATZ.runtimeconfig.dev.json
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\PING-STATZ.dll
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\PING-STATZ.pdb
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.csproj.CoreCompileInputs.cache
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.csproj.CopyComplete
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.dll
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.pdb
+C:\Users\suchencjusz\3dunity\PING-STATZ\PING-STATZ\PING-STATZ\obj\Debug\netcoreapp3.1\PING-STATZ.genruntimeconfig.cache
